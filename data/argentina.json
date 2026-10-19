@@ -1,0 +1,56 @@
+{
+ "source": "DolarAPI",
+ "source_url": "https://dolarapi.com",
+ "fetched_utc": "2026-10-19T15:11:33+00:00",
+ "items": [
+  {
+   "casa": "oficial",
+   "nombre": "Oficial",
+   "compra": 1490,
+   "venta": 1540,
+   "actualizado": "2026-10-19T12:00:00.000Z"
+  },
+  {
+   "casa": "blue",
+   "nombre": "Blue",
+   "compra": 1535,
+   "venta": 1555,
+   "actualizado": "2026-10-19T14:57:00.000Z"
+  },
+  {
+   "casa": "bolsa",
+   "nombre": "MEP (bolsa)",
+   "compra": 1538.8,
+   "venta": 1540.3,
+   "actualizado": "2026-10-19T14:57:00.000Z"
+  },
+  {
+   "casa": "contadoconliqui",
+   "nombre": "CCL",
+   "compra": 1622.8,
+   "venta": 1623.3,
+   "actualizado": "2026-10-19T14:57:00.000Z"
+  },
+  {
+   "casa": "mayorista",
+   "nombre": "Mayorista",
+   "compra": 1514,
+   "venta": 1523,
+   "actualizado": "2026-10-19T11:27:00.000Z"
+  },
+  {
+   "casa": "cripto",
+   "nombre": "Cripto",
+   "compra": 1619.03,
+   "venta": 1622.07,
+   "actualizado": "2026-10-19T14:57:00.000Z"
+  },
+  {
+   "casa": "tarjeta",
+   "nombre": "Tarjeta",
+   "compra": 1937,
+   "venta": 2002,
+   "actualizado": "2026-10-19T12:00:00.000Z"
+  }
+ ]
+}
